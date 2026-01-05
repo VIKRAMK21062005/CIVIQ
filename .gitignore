@@ -1,0 +1,24 @@
+# Python compilation files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (Keep your secrets safe!)
+.env
+
+# Database (Don't push your local data)
+*.sqlite3
+*.db
+civiq.db
+
+# IDE Settings (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
